@@ -1,0 +1,44 @@
+*{
+    margin:0 auto;
+    padding: 0px;
+}
+.box{
+    width: 100%;
+    height: 770px;
+    background-image: url("../images/597157c82b19c.jpg");
+    float: left;
+}
+.littlebox{
+    width: 300px;
+    height: 250px;
+    background-color: rgba(18, 43, 64, 0.15);
+    margin-top: 80px;
+}
+.littlebox h4{
+    text-align: center;
+}
+.a{
+    border: none;
+    background-color: rgba(21, 13, 21, 0.13);
+}
+.zhuce{
+    border: none;
+    background-color: gainsboro;
+    width: 60px;
+    height: 40px;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.zhuce:hover{
+    background-color: gray;
+    color: white;
+    cursor: pointer;
+}
+.littlebox a{
+    text-decoration: none;
+    color: black;
+    float: right;
+}
+.littlebox a:hover{
+    color: gray;
+}
